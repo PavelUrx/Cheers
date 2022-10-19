@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890422525980",
+    "project_id": "cheers-9b14e",
+    "storage_bucket": "cheers-9b14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890422525980:android:8127371889bb60b2de1fd9",
+        "android_client_info": {
+          "package_name": "com.urxstudios.cheers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890422525980-fgsq7qtef6t6amg5bmrffkmauake3p9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9NkIsfOIQev1PXu4iSeSCls5SSMlVa10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890422525980-fgsq7qtef6t6amg5bmrffkmauake3p9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
